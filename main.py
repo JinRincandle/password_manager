@@ -122,7 +122,7 @@ e2=tk.Entry(width=39,
             highlightbackground="black",
             highlightthickness=1)
 e2.place(x=167,y=275)
-e2.insert(0,"rajamhaider@gmail.com")
+e2.insert(0,"@gmail.com")
 
 #password
 l3=tk.Label(text="PASSWORD",
